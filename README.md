@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @SF-bee
-- 👀 I’m interested in cpp
-- 🌱 I’m currently learning python
-- 📫 How to reach me: by email
-- 😄 Pronouns: She
-- ⚡ Fun fact: I'm a Chinese student,I'm not good at English
+* A homepage requires a header image.
 
-<!---
-SF-bee/SF-bee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://api.asxe.vip/scenery.php)
+
+* You are the [![Page Views Count](https://badges.toozhao.com/badges/01JCWS6KEGWFT5CEWPP400NM5B/green.svg)](https://badges.toozhao.com/stats/01JCWS6KEGWFT5CEWPP400NM5B "Get your own page views count badge on badges.toozhao.com") one to come here.
